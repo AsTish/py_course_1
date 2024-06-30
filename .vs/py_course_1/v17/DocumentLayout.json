@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -32,7 +36,7 @@
               "RelativeDocumentMoniker": "main.py",
               "ToolTip": "C:\\Users\\ast04\\git\\py_course_1\\main.py",
               "RelativeToolTip": "main.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-06-28T10:23:54.514Z",
               "EditorCaption": ""
@@ -45,9 +49,10 @@
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "C:\\Users\\ast04\\git\\py_course_1\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAMAAAA",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAkwKMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
-              "WhenOpened": "2024-06-28T10:23:10.949Z"
+              "WhenOpened": "2024-06-28T10:23:10.949Z",
+              "EditorCaption": ""
             }
           ]
         }
